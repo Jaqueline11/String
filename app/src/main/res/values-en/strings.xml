@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tourist sites</string>
+    <string name="txt_informacion">INFORMATION</string>
+    <string name="txt_val">ASSESSMENT</string>
+    <string name="txt_nombre">Name</string>
+    <string name="txt_ubi">location</string>
+    <string name="txt_detalle">Detail of the tourist site</string>
+    <string name="btn_guardar">Save</string>
+    <string name="txt_nombre1">Name of the site</string>
+    <string name="txt_ubi2">Location</string>
+    <string name="txt_mostrar1">show location</string>
+    <string name="txt_informacion1">Information</string>
+    <string name="txt_mostrinfor">Show information</string>
+    <string name="txt_val2">ASSESSMENT</string>
+</resources>
